@@ -21,8 +21,8 @@ visibility: hidden;
 position: absolute;
 }
 .main-gallery > input:checked + img {
-  width:600;
-  height:450;
+  width:500;
+  height:375;
   transition: all 0.5s;
   vertical-align: middle;
   display:inline-block;
