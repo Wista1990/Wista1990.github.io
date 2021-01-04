@@ -24,7 +24,7 @@ position: absolute;
   width:500;
   height:375;
   transition: all 0.5s;
-  vertical-align: middle;
+  vertical-align: left;
   display:inline-block;
 }
 
