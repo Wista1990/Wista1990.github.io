@@ -5,12 +5,12 @@
 }
 
 .main-gallery {
-text-align: center;
+text-align: left;
 margin-bottom: 20px
 }
 #gallery {
 display: block;
-text-align: center;
+text-align: left;
 margin: 0 auto;
 }
 .main-gallery > img {
@@ -25,7 +25,7 @@ position: absolute;
   height:375;
   transition: all 0.5s;  
   display:inline-block;
-  vertical-align: middle;
+  vertical-align: left;
 }
 
 
