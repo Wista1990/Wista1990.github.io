@@ -21,7 +21,7 @@ visibility: hidden;
 position: absolute;
 }
 .main-gallery > input:checked + img {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
   transition: all 0.5s;
   vertical-align: middle;
@@ -40,8 +40,8 @@ cursor: pointer;
 opacity: 0.5;
 }
 .thumb-container label img {
-width: 200px;
-height: 200px;
+width: 85px;
+height: 85px;
 display: block;
 padding: 4px;
 margin-bottom: 20px;
