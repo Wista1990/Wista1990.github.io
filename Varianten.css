@@ -40,8 +40,8 @@ cursor: pointer;
 opacity: 0.5;
 }
 .thumb-container label img {
-width: 100px;
-height: 100px;
+width: 200px;
+height: 200px;
 display: block;
 padding: 4px;
 margin-bottom: 20px;
