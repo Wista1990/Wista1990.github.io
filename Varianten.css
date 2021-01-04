@@ -39,4 +39,15 @@ max-width:100%;
 cursor: pointer;
 opacity: 0.5;
 }
+.thumb-container label img {
+width: 85px;
+height: 85px;
+display: block;
+padding: 4px;
+margin-bottom: 20px;
+line-height: 1.42857143;
+background-color: #ffffff;
+border: 1px solid #dddddd;
+border-radius: 4px;
+}
 
