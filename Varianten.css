@@ -21,7 +21,7 @@ visibility: hidden;
 position: absolute;
 }
 .main-gallery > input:checked + img {
-  max-width: 100%;
+  max-width: 200%;
   height: auto;
   transition: all 0.5s;
   vertical-align: middle;
